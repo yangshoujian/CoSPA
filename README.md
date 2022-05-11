@@ -8,6 +8,4 @@
 
 **Instructions:**
 
-- Finetune: 
-
- sh start.sh
+- Finetune: sh start.sh
